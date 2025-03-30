@@ -19,15 +19,15 @@ A colorful turtle racing simulation where you can bet on which colored turtle wi
 
 ### How to Run
 ```bash
-python turtle_race.py
+  python turtle_race.py
   ```
 
 ### 🎮 How to Play
-Run the program
-When prompted, enter your bet (color name in lowercase)
-Example: "purple", "blue", etc.
-Watch the turtles race!
-See if your predicted turtle wins
+- **Run the program**
+- **When prompted, enter your bet (color name in lowercase)**
+- **Example: "purple", "blue", etc.**
+- **Watch the turtles race!**
+- **See if your predicted turtle wins-**
 
 ### 🏁 Race Track Layout
 
@@ -39,25 +39,25 @@ See if your predicted turtle wins
 ![race demo 2](https://github.com/user-attachments/assets/cad99cf8-0fab-46b0-8a0d-3e03269e63dc)
 
 ### 🛠️ Game Mechanics
-Each turtle moves forward by a random amount (0-10 pixels) per turn
-First turtle to reach x-position 210 wins
-Your bet is compared with the winning turtle's color
-Winner is announced in the console
+- **Each turtle moves forward by a random amount (0-10 pixels) per turn**
+- **First turtle to reach x-position 210 wins**
+- **Your bet is compared with the winning turtle's color**
+- **Winner is announced in the console**
 
 ### 💡 Future Enhancements
-Difficulty levels (adjustable speed)
-Visual winner celebration
-Multiple race rounds
-Betting points system
-Turtle selection menu
+- **Difficulty levels (adjustable speed)**
+- **Visual winner celebration**
+- **Multiple race rounds**
+- **Betting points system**
+- **Turtle selection menu**
 
 ### 🤝 Contributing
-Contributions are welcome! Please:
-Fork the repository
-Create your feature branch
-Commit your changes
-Push to the branch
-Open a pull request
+- **Contributions are welcome! Please:**
+- **Fork the repository**
+- **Create your feature branch**
+- **Commit your changes**
+- **Push to the branch**
+- **Open a pull request**
 
 ### 📜 License
 MIT
