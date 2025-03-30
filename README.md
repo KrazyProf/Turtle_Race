@@ -34,7 +34,7 @@ See if your predicted turtle wins
 ![Screenshot 2025-03-30 160829](https://github.com/user-attachments/assets/e5114a10-e347-4061-9283-8b3773d438a6)
 
 
-### 📸 Screenshots
+### 📸 Preview
 
 ![race demo 2](https://github.com/user-attachments/assets/cad99cf8-0fab-46b0-8a0d-3e03269e63dc)
 
